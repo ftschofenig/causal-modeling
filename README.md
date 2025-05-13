@@ -71,9 +71,10 @@ Open the Jupyter Notebook `Visualization.ipynb` to explore the results:
 - Graphs illustrating causal activation pathways.
 - Histograms of causal activation types categorized by tie range.
 - Comparative visualizations for different contagion models:
-  - Deterministic activation
-  - Constant exposure activation
-  - First exposure activation
+  - Deterministic
+  - Continual + Asymmetric Noise
+  - One-shot + Asymmetric Noise
+  - Continual + Symmetric Noise
 
 ## Performance Notes
 - **Simulation run time (`Calculation.py`)**:  
